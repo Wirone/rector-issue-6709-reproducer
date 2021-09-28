@@ -8,7 +8,7 @@
 >
     <testsuites>
         <testsuite name="Rector">
-            <directory>tests</directory>
+            <directory>utils/rector/tests</directory>
         </testsuite>
     </testsuites>
 

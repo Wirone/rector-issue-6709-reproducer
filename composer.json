@@ -4,7 +4,7 @@
     "homepage": "https://github.com/rectorphp/rector/issues/6709",
     "type": "project",
     "require": {
-        "rector/rector": "^0.11"
+        "rector/rector": "^0.11.56"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5"
@@ -21,7 +21,6 @@
             "Utils\\Rector\\Tests\\": "utils/rector/tests"
         }
     },
-    "minimum-stability": "stable",
     "scripts": {
         "rector": "rector process --dry-run --clear-cache"
     }
