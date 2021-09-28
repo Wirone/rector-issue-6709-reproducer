@@ -23,7 +23,5 @@
     },
     "scripts": {
         "rector": "rector process --dry-run --clear-cache"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
