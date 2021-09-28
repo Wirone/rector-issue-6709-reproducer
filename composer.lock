@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dbc760871055a723b77173e70c693845",
+    "content-hash": "7b4b54515907a666d899896124ff5e63",
     "packages": [
         {
             "name": "phpstan/phpstan",
@@ -72,16 +72,16 @@
         },
         {
             "name": "rector/rector",
-            "version": "dev-main",
+            "version": "0.11.56",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector.git",
-                "reference": "2b84fc646b4523726b1b0c3ea96dea6ac60c069a"
+                "reference": "9f601b77550dbfa6e096028f8aaecf7021c1bc46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector/zipball/2b84fc646b4523726b1b0c3ea96dea6ac60c069a",
-                "reference": "2b84fc646b4523726b1b0c3ea96dea6ac60c069a",
+                "url": "https://api.github.com/repos/rectorphp/rector/zipball/9f601b77550dbfa6e096028f8aaecf7021c1bc46",
+                "reference": "9f601b77550dbfa6e096028f8aaecf7021c1bc46",
                 "shasum": ""
             },
             "require": {
@@ -98,7 +98,6 @@
                 "rector/rector-prefixed": "*",
                 "rector/rector-symfony": "*"
             },
-            "default-branch": true,
             "bin": [
                 "bin/rector"
             ],
@@ -120,7 +119,7 @@
             "description": "Prefixed and PHP 7.1 downgraded version of rector/rector",
             "support": {
                 "issues": "https://github.com/rectorphp/rector/issues",
-                "source": "https://github.com/rectorphp/rector/tree/main"
+                "source": "https://github.com/rectorphp/rector/tree/0.11.56"
             },
             "funding": [
                 {
@@ -128,7 +127,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-09-28T16:31:43+00:00"
+            "time": "2021-09-28T19:06:03+00:00"
         }
     ],
     "packages-dev": [
@@ -1908,9 +1907,9 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": [],
-    "prefer-stable": true,
+    "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
