@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c854af1287f960dbc1d3a7d8ae585aea",
+    "content-hash": "dbc760871055a723b77173e70c693845",
     "packages": [
         {
             "name": "phpstan/phpstan",
@@ -76,12 +76,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector.git",
-                "reference": "2b84fc6"
+                "reference": "2b84fc646b4523726b1b0c3ea96dea6ac60c069a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector/zipball/2b84fc6",
-                "reference": "2b84fc6",
+                "url": "https://api.github.com/repos/rectorphp/rector/zipball/2b84fc646b4523726b1b0c3ea96dea6ac60c069a",
+                "reference": "2b84fc646b4523726b1b0c3ea96dea6ac60c069a",
                 "shasum": ""
             },
             "require": {
@@ -1909,9 +1909,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "rector/rector": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
